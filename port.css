@@ -140,6 +140,7 @@ padding-right:20px ;
 .skills_item img{
     max-width: 70px;
     display: inline;
+    border-radius: 100%;
 }
 .projetoo{
     text-align: justify;
@@ -155,11 +156,6 @@ padding-right:20px ;
 .projeto_destaque{
     img{
         width: 50%;
-    }
-}
-.skills{
-    img{
-        border-radius: 100%;
     }
 }
 .elemento1{
