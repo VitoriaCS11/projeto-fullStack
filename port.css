@@ -137,10 +137,12 @@ padding-right:20px ;
 .skills_contet{
     display: flex;
 }
-.skills_item img{
+.skills_item {
+    img{
     max-width: 70px;
     display: inline;
     border-radius: 100%;
+    }
 }
 .projetoo{
     text-align: justify;
