@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#image{
+    width:80%;
+    max-width: 600px;
+}
+html{
+    background-color: darkslategray;
+}
+h1{
+    background-color: rgb(26, 87, 32);
+}
