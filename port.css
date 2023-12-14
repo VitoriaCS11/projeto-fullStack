@@ -13,6 +13,11 @@ body{
         border-radius: 100%;
     }
 }
+.skills{
+    img{
+        border-radius: 100%;
+    }
+}
 header{
     display:flex;
     flex-direction: row;
@@ -142,7 +147,7 @@ padding-right:20px ;
     max-width: 70px;
     display: inline;
     border-radius: 100%;
-    }
+}
 }
 .projetoo{
     text-align: justify;
@@ -158,13 +163,18 @@ padding-right:20px ;
 .projeto_destaque{
     img{
         width: 50%;
+        max-width: 30%;
     }
 }
 .elemento1{
-    
-    display: flex;
-    flex-direction: row;
+    img{
+        border-radius: 100%;
+    }
    
+}
+.elemento1{
+    text-align: center;
+    flex-direction: row;
 }
 .elemento2{
    
@@ -226,3 +236,4 @@ padding-right:20px ;
 @media only screen and(max-width:425px){
     h1{ font-size:4.2rem ;}
 }
+
